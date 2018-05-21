@@ -1,0 +1,21 @@
+## Referenced assemblies
+/r:IseautoStepper.dll
+/r:IseautoModel.dll
+
+
+## Implementation under test
+/iut:IseautoStepper.Stepper.Create
+
+/mp:IseautoModel
+
+/o:didReacheWaypoint_Finish
+
+/continueOnFailure+
+
+/runs:2
+
+/timeout:50000
+
+/logfile:IseautoLog12run.txt
+
+/metrics+

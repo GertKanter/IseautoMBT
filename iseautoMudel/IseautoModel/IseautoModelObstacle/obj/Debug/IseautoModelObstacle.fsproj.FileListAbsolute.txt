@@ -1,0 +1,14 @@
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\IseautoModelObstacle.XML
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\IseautoModelObstacle.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\IseautoModelObstacle.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\FSharp.Core.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\FSharp.Data.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\NModel.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\System.ValueTuple.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\FSharp.Core.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\FSharp.Data.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\FSharp.Data.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\NModel.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\bin\Debug\NModel.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\obj\Debug\IseautoModelObstacle.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\iseautoMudel\IseautoModel\IseautoModelObstacle\obj\Debug\IseautoModelObstacle.pdb

@@ -1,0 +1,71 @@
+#Logifail auto raadiusest väljas olemise testist
+TestResult(0, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(1, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(2, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(3, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(4, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(5, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(6, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(7, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(8, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )
+TestResult(9, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("2.6336"), float("-0.0633"), float("0.0234"))
+    )

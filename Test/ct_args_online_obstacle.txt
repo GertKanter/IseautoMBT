@@ -1,0 +1,21 @@
+## Referenced assemblies
+/r:IseautoStepperObstacle.dll
+/r:IseautoModelObstacle.dll
+
+
+## Implementation under test
+/iut:IseautoStepperObstacle.Stepper.Create
+
+/mp:IseautoModelObstacle
+
+/o:didReacheWaypoint_Finish
+
+/continueOnFailure+
+
+/runs:1
+
+/timeout:50000
+
+/logfile:IseautologiMaailmObstacle1.txt
+
+/metrics+

@@ -1,0 +1,20 @@
+TestResult(0, Verdict("Success"), "",
+    Trace(
+        Setup_Start(),
+        Setup_Finish(),
+        Create(Client(1)),
+        Create(Client(2)),
+        Enter(Client(2)),
+        Enter(Client(1)),
+        Send(Client(1), "hi"),
+        Send(Client(2), "hi"),
+        Wait(5000),
+        Receive(Client(1), "hi", Client(2)),
+        Receive(Client(2), "hi", Client(1)),
+        Wait(5000)
+    )
+TestResult(1, Verdict("Failure"), "Juurdepääs on keelatud",
+    Trace(
+        Setup_Start()
+    )
+)

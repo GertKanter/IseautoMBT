@@ -1,0 +1,40 @@
+#--------------------------
+# Kilpkonna n‰idis
+#--------------------------
+
+#
+# Viitame DLL-teekidele
+#
+/r:TurtleModel.dll
+/r:StepperImp.dll
+
+#
+# Mudeli konstruktor
+#
+TurtleModel.Contract.Create
+
+#
+# Adapteri konstruktor
+#
+/iut:StepperImp.Stepper.Create
+
+#
+# Testide jooksutuse arv ja sammude arv, ehk mitu sammu testis tehakse
+#
+/runs:10
+/steps:30
+
+#
+# Timeout
+/timeout:6000000
+
+#
+# Logifaili m‰‰ramine, kuhu testi tulemused salvestatakse
+#
+#/log:testruns.txt
+
+#
+# M‰‰rame kas test jookseb edasi p‰rast ebaınnestumist (+) vıi mitte (-)
+#
+/continueOnFailure-
+

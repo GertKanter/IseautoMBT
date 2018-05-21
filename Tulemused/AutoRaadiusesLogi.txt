@@ -1,0 +1,82 @@
+#Logifail auto raadiuses olemise testist
+TestResult(0, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(1, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(2, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(3, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(4, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(5, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(6, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(7, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(8, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+TestResult(9, Verdict("Success"), "",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("1.2964,2.6336", "-0.0303,-0.0633", "0.0346,0.0234", "2.5413,2.5413", "-0.0129,-0.0578", 2),
+        didReacheWaypoint_Start(),
+        didReacheWaypoint_Finish(),
+        Goal()
+    )
+

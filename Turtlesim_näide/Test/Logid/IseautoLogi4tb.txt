@@ -1,0 +1,7 @@
+TestResult(0, Verdict("Failure"), "Action symbol 'didNotReachWaypoint' not enabled in the model",
+    Trace(
+        StartPosition("0.0507", "0.0196", "0.0074", "0", "0.0015", 1),
+        MoveCar("2.6336,4.1964", "-0.0633,-0.1747", "0.0234,0.0272", "8.1668,11.1345", "-0.0578,-0.1096", 2),
+        didReacheWaypoint_Start(),
+        didNotReachWaypoint(float("4.1964"), float("-0.1747"), float("0.0272"))
+    )

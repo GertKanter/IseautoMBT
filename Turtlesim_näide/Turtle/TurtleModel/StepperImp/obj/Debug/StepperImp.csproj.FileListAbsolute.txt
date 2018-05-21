@@ -1,0 +1,15 @@
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\StepperImp.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\StepperImp.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\NModel.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\RosBridgeClient.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\websocket-sharp.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\NModel.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\NModel.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\RosBridgeClient.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\bin\Debug\websocket-sharp.xml
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\obj\Debug\StepperImp.csproj.CoreCompileInputs.cache
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\obj\Debug\StepperImp.dll
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\obj\Debug\StepperImp.pdb
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\StepperImp\obj\Debug\StepperImp.csprojResolveAssemblyReference.cache

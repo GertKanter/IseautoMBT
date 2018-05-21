@@ -1,0 +1,2 @@
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\Stepper\obj\Debug\TurtleAdpImp.csproj.CoreCompileInputs.cache
+C:\Users\Lowry\Desktop\iseauto-mudelipohine-testimine\samples\Turtle\TurtleModel\Stepper\obj\Debug\TurtleAdpImp.csprojResolveAssemblyReference.cache
