@@ -26,11 +26,11 @@
 * Directory named  "Turtlesim_näide" contains example made with turtlesim for MBT testing.
 * Directory named  "bin" contains  NModels version that supports F# language.
 * Directory named  "iseautoMudel" contains model and stepper (adapter).
-⋅⋅* MBT Model - iseautoMudel->IseautoModel->ProtableLibrary1.fs
-⋅⋅* MBT Adapter - IseautoMudel -> IseautoStepper->Class1.cs
-⋅⋅* MPV script - iseautoMudel->IseautoModel->Script.fsx (for visualizing the model with NModel's MPV)
-⋅⋅* The above folder contains also .csv failis with waypoints
+     1. MBT Model - iseautoMudel->IseautoModel->ProtableLibrary1.fs
+     2. MBT Adapter - IseautoMudel -> IseautoStepper->Class1.cs
+     3. MPV script - iseautoMudel->IseautoModel->Script.fsx (for visualizing the model with NModel's MPV)
+     4. The above folder contains also .csv failis with waypoints
 * Directory named  "ros-sharp" contains ros# version with modifications to support Autoware and other needed messages.
 * Directory named  "Test" contains  necessary tools, argument files, model and adapter dll's  related to MBT testing with Autoware.
 * Directory named  "Koodikatvus_Pildid" contains picture of graph that shows the nodes that where involved in moving the car (taken with rqt) and code coverage results from pure_pursuit node.  
- * Code coverage report can be found in  Koodikatvus_Pildid->Pure_pursuit
+* Code coverage report can be found in  Koodikatvus_Pildid->Pure_pursuit
