@@ -9,10 +9,10 @@
 * Kaustas "Turtlesim_näide" on MBT ja ROS'iga tutvumise jaoks loodud näide kilpkonnaga.
 * Kaustas "bin" asuvad NModel'i mugantatud versiooni DLL-teegid ja vahendid (ct,mpv,otg jne).
 * Kaustas "iseautoMudel" on isesõitva auto MBT test ja adapter.
-1. MBT Mudel - iseautoMudel->IseautoModel->ProtableLibrary1.fs
-2. MBT Adapter - IseautoMudel -> IseautoStepper->Class1.cs
-3. MPV skript - iseautoMudel->IseautoModel->Script.fsx (Mudeli visualiseerimiseks)
-4. Samas kaustas ka näidised teekonnapunktide failidest .csv faili formaadis
+    1. MBT Mudel - iseautoMudel->IseautoModel->ProtableLibrary1.fs
+    2. MBT Adapter - IseautoMudel -> IseautoStepper->Class1.cs
+    3. MPV skript - iseautoMudel->IseautoModel->Script.fsx (Mudeli visualiseerimiseks)
+    4. Samas kaustas ka näidised teekonnapunktide failidest .csv faili formaadis
 * Kaustas "ros-sharp" asub ros# versioon koos tehtud muudatustega.
 * Kaustas "Test" asuvad iseauto testide käivitamisega seonduvad NModel vahendid teegid, argumendifailid, mudeli ja adapteri DLL-teegid
 * Kaustas "Koodikatvus_Pildid" asuvad pildid sõlmede graafist ja koodikatvuse tulemused pure_pursuit sõlmest
